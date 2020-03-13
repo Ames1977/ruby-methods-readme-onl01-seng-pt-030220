@@ -1,4 +1,4 @@
-# Methods in Ruby
+irbIRB# Methods in Ruby
 
 ## Overview
 
@@ -11,7 +11,7 @@ file, `example.rb`, that you can use to copy the code examples into. You can run
 this file from the lesson's main directory by typing `ruby lib/example.rb` to
 see what it produces.
 
-## Objectives
+# 
 
 - Describe how methods can define new routines and procedures for our code.
 - Define a method with the `def` keyword, supply the method's body, and close
@@ -138,6 +138,7 @@ at methods in greater detail.
 
 You can define a method in Ruby with the `def` keyword. A method's name can
 begin with any lowercase letter. Here's a quick example:
+
 
 ```ruby
 def greeting # Method Signature
